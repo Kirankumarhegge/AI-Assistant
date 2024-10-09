@@ -13,12 +13,11 @@ The AI Assistant is a web application that combines a user-friendly chat interfa
 ## Video
 The video has been divided into three parts due to its large size. Please watch them in the given sequence.
 
-1. https://github.com/user-attachments/assets/cf2b80af-45d5-4075-88ff-174d7e3dffe4
+1. https://github.com/user-attachments/assets/c80b0b8f-9ec7-4957-978b-fa1d28ee567e
 
-2. https://github.com/user-attachments/assets/c7ebfdc0-6248-423c-a130-da6dc7620e6f
+2. https://github.com/user-attachments/assets/1b44afb4-b409-47e5-8cd5-f25306c3d672
 
-3. https://github.com/user-attachments/assets/e8f41006-f752-4e0c-84ce-a4f1b57fa176
-
+3. https://github.com/user-attachments/assets/73ca178b-2fe5-4214-a8ff-940df93e00cd
 
 ## Technologies
 
